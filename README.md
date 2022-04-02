@@ -30,7 +30,7 @@
     sudo pacman -S npm nodejs ccls lazygit ctags
 ``` 
 
-### Copy and pass on terminal 
+### Copy and paste on terminal 
 - If you don't want to do that you can git clone on some file copy something and pass on: ~/.config/nvim
 ```
     rm -rf ~/.config/nvim
