@@ -38,8 +38,8 @@ let g:ctrlp_custom_ignore = {
 \ }
 
 "NERDtree
-let g:NERDTreeDirArrowExpandable="🌕"
-let g:NERDTreeDirArrowCollapsible="🌚"
+let g:NERDTreeDirArrowExpandable="❤️"
+let g:NERDTreeDirArrowCollapsible="🔥"
 let g:NERDTreeShowBookmarks=1
 
 

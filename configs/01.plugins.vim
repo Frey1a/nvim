@@ -45,7 +45,7 @@ Plug 'jackguo380/vim-lsp-cxx-highlight'  	"C++ syntax
 
 
 "Debugging
-Plug 'puremourning/vimspector' 				"vimspector
+" Plug 'puremourning/vimspector' 				"vimspector
 
 "Some extension for developer
 Plug 'preservim/tagbar' 					"Tagbar
@@ -55,10 +55,12 @@ Plug 'ap/vim-css-color' 					"Css Color preview
 
 "Source code version control 
 Plug 'tpope/vim-fugitive' 						" Git
+Plug 'kdheepak/lazygit.vim'						"lazygit
 
+"muti select for neovim use ctrl + n
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 
-
-
-
+"wakatime
+Plug 'wakatime/vim-wakatime'
 
 call plug#end()
