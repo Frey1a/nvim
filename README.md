@@ -2,12 +2,16 @@
 # 📝 My [neovim](https://neovim.io/) config
 
 ## 📸 Screeshot
+</br>
 
 <img src="https://github.com/Frey1a/dotfiles/blob/main/image/Screenshot/SrcNeovim-nerdtree.jpg?raw=true">
+</br>
 
 <img src="https://github.com/Frey1a/dotfiles/blob/main/image/Screenshot/Srcneovimtagbar.jpg?raw=true">
+</br>
 
 <img src="https://github.com/Frey1a/dotfiles/blob/main/image/Screenshot/srcNeovim-lazygit.jpg?raw=true">
+</br>
 
 ## 🚀 Install
 
