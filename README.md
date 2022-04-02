@@ -37,6 +37,7 @@
     git clone https://github.com/Frey1a/30day-frontend.git ~/.config/nvim 
 
 ```
-### Enjoy!
+### 🚩 Enjoy!
 
-## Tools 
+## 🛠 Tools 
+See on [configs/01.plugins.vim](https://github.com/Frey1a/nvim/blob/main/configs/01.plugins.vim)
