@@ -10,8 +10,9 @@ let g:coc_global_extensions = [
    \	'coc-ccls',
    \	'coc-cmake',
    \	'coc-html-css-support',
-   \ 'coc-pyright',
-	 \ 'coc-jedi',
+   \ 	'coc-pyright',
+   \ 	'coc-jedi',
+   \ 	'coc-tailwindcss',
    \	]
 
 

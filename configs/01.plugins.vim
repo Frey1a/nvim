@@ -42,6 +42,7 @@ Plug 'tpope/vim-surround' 		"lets you deal with pairs of things, surrounding thi
 Plug 'yuezk/vim-js' 			"Javascript
 Plug 'maxmellon/vim-jsx-pretty'  			"JSX / React
 Plug 'jackguo380/vim-lsp-cxx-highlight'  	"C++ syntax
+Plug 'othree/javascript-libraries-syntax.vim' "Syntax for JavaScript libraries
 
 
 "Debugging
