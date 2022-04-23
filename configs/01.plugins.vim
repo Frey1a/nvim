@@ -24,7 +24,7 @@ Plug 'voldikss/vim-floaterm' 					" Float terminal
 
 "Auto complete
 Plug 'neoclide/coc.nvim', {'branch': 'release'} 	"Coc-nvim like IDE
-Plug 'tpope/vim-commentary' 				"Auto comment
+Plug  "tomtom/tcomment_vim"       			  "Auto comment 
 Plug 'jiangmiao/auto-pairs' 				"Auto brackets, parens, quotes in pair
 Plug 'andrewradev/tagalong.vim' 		"Rename tag
 Plug 'mattn/emmet-vim' 			"fast code html 
