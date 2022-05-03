@@ -41,6 +41,10 @@ let g:ctrlp_custom_ignore = {
 let g:NERDTreeDirArrowExpandable="❤️"
 let g:NERDTreeDirArrowCollapsible="🔥"
 let g:NERDTreeShowBookmarks=1
+" Exit Vim if NERDTree is the only window remaining in the only tab.
+autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
 
+"config library js
+let g:used_javascript_libs = 'underscore,backbone.react,vue,jquery,angularjs'
 
 "Tagalong 
