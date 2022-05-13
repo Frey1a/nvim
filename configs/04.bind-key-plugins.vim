@@ -3,7 +3,7 @@
 "Clipboard
 
 :inoremap <C-v> <ESC>"+pa
-:vnoremap <C-c> "+v
+:vnoremap <C-c> "+y
 :vnoremap <C-e> "+d
 
 
