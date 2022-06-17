@@ -1,12 +1,7 @@
 
-
-"Clipboard
-
 :inoremap <C-v> <ESC>"+pa
 :vnoremap <C-c> "+y
 :vnoremap <C-e> "+d
-
-
 
 
 "Tagbar
@@ -23,3 +18,7 @@ noremap <silent> <c-l> :wincmd l<CR>
 
 "Select All
 nnoremap <leader>a ggVG
+
+
+xmap <leader>a  <Plug>(coc-codeaction-selected)
+nmap <leader>a  <Plug>(coc-codeaction-selected)

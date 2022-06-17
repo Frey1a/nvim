@@ -10,5 +10,5 @@ nmap 		<Leader>dr <Plug>VimspectorRestart
 nmap 		<Leader>de <Plug>VimspectorStepOut
 nmap 		<Leader>di <Plug>VimspectorStepInto
 nmap 		<Leader>do <Plug>VimspectorStepOver
-
+ 
 

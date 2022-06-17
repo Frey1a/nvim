@@ -13,6 +13,10 @@ let g:coc_global_extensions = [
    \ 	'coc-pyright',
    \ 	'coc-jedi',
    \ 	'coc-tailwindcss',
+   \    'coc-eslint',
+   \ 	'coc-tslint-plugin',
+   \ 	'coc-styled-components',
+   \ 	'coc-vetur',
    \	]
 
 

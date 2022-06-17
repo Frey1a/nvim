@@ -23,5 +23,3 @@ set nowritebackup                       " This is recommended by coc
 set updatetime=300                      " Faster completion
 
 
-
-

@@ -24,16 +24,18 @@ Plug 'voldikss/vim-floaterm' 					" Float terminal
 
 "Auto complete
 Plug 'neoclide/coc.nvim', {'branch': 'release'} 	"Coc-nvim like IDE
-Plug  "tomtom/tcomment_vim"       			  "Auto comment 
+Plug 'tomtom/tcomment_vim' 				"Auto comment
 Plug 'jiangmiao/auto-pairs' 				"Auto brackets, parens, quotes in pair
 Plug 'andrewradev/tagalong.vim' 		"Rename tag
 Plug 'mattn/emmet-vim' 			"fast code html 
 " Plug 'SirVer/ultisnips' 			"auto coding
 
+Plug 'moll/vim-node' "For nodejs
 
 
 "Search file = ctrl + p
-Plug 'kien/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
+
 
 "Vim-surround
 Plug 'tpope/vim-surround' 		"lets you deal with pairs of things, surrounding things
@@ -63,5 +65,6 @@ Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 
 "wakatime
 Plug 'wakatime/vim-wakatime'
+
 
 call plug#end()
